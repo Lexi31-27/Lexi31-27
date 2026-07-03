@@ -24,3 +24,13 @@
 
 🌱 Always learning new technologies and improving my skills every day.
 
+---
+
+# 💻 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,cpp,python,react,nextjs,nodejs,mysql,git,github,vscode,linux" />
+</p>
+
+
+
