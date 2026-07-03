@@ -32,5 +32,13 @@
   <img src="https://skillicons.dev/icons?i=java,js,html,css,cpp,python,react,nextjs,nodejs,mysql,git,github,vscode,linux" />
 </p>
 
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Lexi31-27&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lexi31-27&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 
