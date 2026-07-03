@@ -185,13 +185,6 @@
 
 ---
 
-# 🏆 GitHub Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Lexi31-27&theme=tokyonight&no-frame=true&margin-w=15&row=1"/>
-</p>
-
-<p align="center">
 
 <i>
 "Security is not a feature. It is the foundation of great software."
@@ -207,5 +200,17 @@
 
 </p>
 
+
+---
+
+<p align="center">
+
+### Thanks for visiting my profile 👋
+
+*"Turning ideas into scalable software."*
+
+⭐ Don't forget to check out my repositories.
+
+</p>
 
 
