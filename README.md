@@ -106,6 +106,30 @@
 
 </p>
 
+<p align="center">
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Lexi31-27&label=Profile+Views&color=8A2BE2&style=for-the-badge" />
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Lexi31-27&theme=tokyonight&no-frame=true&margin-w=15&row=1"/>
+</p>
+
+<p align="center">
+
+<i>
+"Security is not a feature. It is the foundation of great software."
+</i>
+
+</p>
+
 ---
 
 <p align="center">
