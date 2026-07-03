@@ -25,7 +25,22 @@
 🌱 Always learning new technologies and improving my skills every day.
 
 ---
+        ┌──────────────────────────┐
 
+        👩🏻‍💻 coding...
+
+        Matrix
+
+        Terminal
+
+        Cyberpunk
+
+        Purple
+
+        Hacker Style
+
+        └──────────────────────────┘
+        
 
 # 🌟 Core Expertise
 
