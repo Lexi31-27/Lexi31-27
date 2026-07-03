@@ -26,15 +26,81 @@
 
 ---
 
+
+# 🌟 Core Expertise
+
+✔ Full Stack Development
+
+✔ Software Architecture
+
+✔ Backend Development
+
+✔ Frontend Development
+
+✔ SQL Database Design
+
+✔ REST APIs
+
+✔ Cybersecurity
+
+✔ Clean Code & Best Practices
+
+---
+
+
 # 💻 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,js,html,css,cpp,python,react,nextjs,nodejs,mysql,git,github,vscode,linux" />
 </p>
 
----
 
 ---
+
+# 🎯 Current Focus
+
+🏡 Developing **K&B SaaS Real Estate Platform**
+
+🔐 Expanding my knowledge in **Cybersecurity**
+
+⚛️ Building scalable **React & Next.js** applications
+
+🐍 Creating automation tools with **Python**
+
+📚 Continuously learning modern software architecture
+
+---
+
+
+# 📚 Currently Learning
+
+☁ Cloud Computing
+
+🤖 Artificial Intelligence
+
+🔐 Ethical Hacking
+
+⚡ DevOps
+
+🐳 Docker
+
+---
+
+
+# 🎯 2026 Goals
+
+✅ Build high-quality software
+
+✅ Contribute to Open Source
+
+✅ Master Cloud Technologies
+
+✅ Improve Cybersecurity Skills
+
+✅ Publish professional portfolio projects
+
+---
+
 
 # 🚀 Featured Projects
 
@@ -44,6 +110,7 @@
 **Tech:** SQL • MySQL • Java
 
 ---
+
 
 ### 🏡 Real Estate Platform
 > Modern Full Stack web application focused on real estate management.
@@ -87,24 +154,26 @@
 - Software Architecture
 
   ---
+  
 
 # 📫 Connect With Me
 
 <p align="center">
 
-<a href="mailto:TU_CORREO">
-<img src="https://skillicons.dev/icons?i=gmail" />
+<a href="https://github.com/Lexi31-27">
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://github.com/Lexi31-27">
-<img src="https://skillicons.dev/icons?i=github" />
+<a href="mailto:TU_CORREO">
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
 <a href="https://linkedin.com/in/TU_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
 </p>
+
 
 <p align="center">
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
