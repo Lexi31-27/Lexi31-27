@@ -34,11 +34,85 @@
 
 ---
 
-# 📊 GitHub Stats
+---
+
+# 🚀 Featured Projects
+
+### 🏥 Hospital Management System
+> Database design and SQL optimization for healthcare environments.
+
+**Tech:** SQL • MySQL • Java
+
+---
+
+### 🏡 Real Estate Platform
+> Modern Full Stack web application focused on real estate management.
+
+**Tech:** React • Next.js • Node.js • MySQL
+
+---
+
+### 🔐 Cybersecurity Labs
+> Collection of cybersecurity labs, ethical hacking exercises and security research.
+
+**Tech:** Linux • Python • Networking
+
+---
+
+### ☕ Banking System
+> Object-Oriented Programming project developed in Java.
+
+**Tech:** Java • OOP • SQL
+
+---
+
+### 🤖 Python Automation
+> Scripts for automation, data processing and productivity.
+
+**Tech:** Python
+
+---
+
+# 📜 Education & Certifications
+
+🎓 Software Engineering
+
+🏛️ INSA Toulouse — France 🇫🇷
+
+📚 Currently expanding my knowledge in:
+
+- Cybersecurity
+- Cloud Computing
+- Artificial Intelligence
+- Software Architecture
+
+  ---
+
+# 📫 Connect With Me
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Lexi31-27&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lexi31-27&layout=compact&theme=tokyonight&hide_border=true" />
+
+<a href="mailto:TU_CORREO">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://github.com/Lexi31-27">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://linkedin.com/in/TU_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
 </p>
+
+---
+
+<p align="center">
+
+> "Code with purpose. Build with passion. Never stop learning."
+
+</p>
+
 
 
